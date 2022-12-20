@@ -1,0 +1,10 @@
+1 Bread 1.09
+2 Sausage 2.15
+3 Water 0.99
+4 Chocolate 1.39
+5 Apple 0.79
+6 Cheese 2.49
+7 Ice-cream 1.00
+8 Soda 1.21
+9 Juice 1.99
+10 Salad 2.01

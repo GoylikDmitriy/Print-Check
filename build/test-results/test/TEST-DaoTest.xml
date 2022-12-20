@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DaoTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-12-20T15:24:34" hostname="DESKTOP-53I8MRM" time="0.038">
+  <properties/>
+  <testcase name="fileCardDaoNonexistentCardException()" classname="DaoTest" time="0.018"/>
+  <testcase name="fileProductDaoFileNotFoundException()" classname="DaoTest" time="0.001"/>
+  <testcase name="fileProductDaoNonexistentProductException()" classname="DaoTest" time="0.002"/>
+  <testcase name="fileCardDaoReturnCardByNumber()" classname="DaoTest" time="0.001"/>
+  <testcase name="fileCardDaoFileNotFoundException()" classname="DaoTest" time="0.001"/>
+  <testcase name="consoleProductDaoNonexistentProductException()" classname="DaoTest" time="0.002"/>
+  <testcase name="consoleProductDaoReturnProductById()" classname="DaoTest" time="0.001"/>
+  <testcase name="fileProductDaoReturnProductById()" classname="DaoTest" time="0.001"/>
+  <testcase name="consoleCardDaoNonexistentCardException()" classname="DaoTest" time="0.001"/>
+  <testcase name="consoleCardDaoReturnCardByNumber()" classname="DaoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
